@@ -1,0 +1,10 @@
+
+*.vsidx
+UTS PBO/.vs/UTS PBO/v17/.suo
+*.json
+*.cache
+*.editorconfig
+*.resx
+*.props
+*.cs
+*.targets
